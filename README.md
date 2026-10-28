@@ -1,4 +1,4 @@
-# Ettin encoder–decoder scoring of Korean CSAT English cloze items
+# Ettin encoder–decoder scoring of Korean CSAT English cloze items(Trial version)
 
 This folder contains the data, model outputs and scripts needed to inspect and reproduce the
 main analysis: how closely the option preferences of paired Ettin language models
