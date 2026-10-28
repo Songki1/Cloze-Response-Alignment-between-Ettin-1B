@@ -1,4 +1,4 @@
-# CSAT English Cloze Items: Reader Alignment of BERT vs GPT-2
+# CSAT English Cloze Items: Reader Alignment of Ettin 1B pairs
 
 Reproduction package for the paper *"How Well Are Language Models Aligned
 with Readers' Cloze-Solving Behaviour? Comparing BERT and GPT-2 against
